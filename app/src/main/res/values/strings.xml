@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="submit">Submit</string>
+    <string name="experience">How was your alarm Clock experience?</string>
+</resources>
